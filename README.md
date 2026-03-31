@@ -1,16 +1,11 @@
-## Hi there 👋
+### ` > Hello World! `
 
-<!--
-**fseckel-develop/fseckel-develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`🧠`&nbsp;&nbsp;I’m interested in system design, rendering pipelines, and how data is structured and flows through software.  
+  
+`⚙️`&nbsp;&nbsp;As a backend-focused developer, I build systems with emphasis on architecture, modularity, and efficient data handling.  
+  
+`🧩`&nbsp;&nbsp;I like to approach problems through analytic decomposition, using design patterns to achieve clear separation of concerns.  
+  
+`🎨`&nbsp;&nbsp;My projects explore backend systems and 3D computer graphics, from data-driven applications to rendering and visualisation.  
+  
+`> Feel free to start with the pinned repositories and explore further.`
